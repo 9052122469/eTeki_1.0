@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>script for candidate availability</description>
+   <name>Candidate_Availability</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8917710-53c5-4038-a178-f64a800ee4e2</testCaseGuid>
+</TestCaseEntity>
