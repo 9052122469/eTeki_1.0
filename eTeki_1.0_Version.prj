@@ -4,5 +4,5 @@
    <name>eTeki_1.0_Version</name>
    <tag></tag>
    <UUID>76e33e68-bdc2-4340-8904-9bbb9a08741c</UUID>
-   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeout>0</pageLoadTimeout>
 </Project>

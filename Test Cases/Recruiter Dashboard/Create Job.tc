@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Script to create job</description>
+   <name>Create Job</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef94814a-e6be-429b-bd9c-e4c26ab5ff9d</testCaseGuid>
+</TestCaseEntity>
